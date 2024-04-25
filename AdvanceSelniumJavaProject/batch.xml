@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="batch.selenium.exe.Myntra"/>
+      <class name="batch.selenium.exe.Google"/>
+      <class name="batch.selenium.exe.MakyMyTrip"/>
+      <class name="batch.selenium.exe.amazon"/>
+      <class name="batch.selenium.exe.BookMyShow"/>
+      <class name="batch.selenium.exe.DemoWebShop"/>
+      <class name="batch.selenium.exe.Flipkart"/>
+      <class name="batch.selenium.exe.Lakme"/>
+      <class name="batch.selenium.exe.Meesho"/>
+      <class name="batch.selenium.exe.Nykaa"/>
+      <class name="batch.selenium.exe.Shopsy"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
